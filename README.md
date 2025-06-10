@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **GDScript 👾 and game development as a fun hobby!**
 - 🤝 I’m looking for help with **Getting a new Python Developer job 😁**
 - 💬 Ask me about **Python and Vue.js**
-- 📫 Reach me @ **akberjag@gmail.com, [LinkedIn](https://www.linkedin.com/in/kitavi-douglas-2148a5249/) or [LeetCode](https://leetcode.com/u/DouglasKitavi/)**
+- 📫 Reach me @ **douglaskitavi31@gmail.com, [LinkedIn](https://www.linkedin.com/in/kitavi-douglas-2148a5249/) or [LeetCode](https://leetcode.com/u/DouglasKitavi/)**
 - ⚡ Fun fact: **You might be curious about the story behind my name. Feel free to reach out, and I'll be happy to share it with you! 😉**
 <br/>
 
